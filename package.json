@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "node amazon clone",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "en",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^2.0.0",
+    "mysql": "^2.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsiaoz/bamazon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ehsiaoz/bamazon/issues"
+  },
+  "homepage": "https://github.com/ehsiaoz/bamazon#readme"
+}
